@@ -33,6 +33,8 @@ I'm studying **Front-End**🖥 and interested in **Data Analysis** 📊 and **De
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ehoy)](https://velog.io/@ehoy) -->
 
 <div>
+<!--
 <a href="https://velog.io/@ehoy" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://hj9118.notion.site/c37715a1d7a5475e8a55abc16cda6aeb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+-->
 </div>
