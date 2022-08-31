@@ -28,7 +28,8 @@ I'm studying **Front-End**🖥 and interested in **Data Analysis** 📊 and **De
 
 [![hj9118's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hj9118&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hj9118)
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hj_9118)](https://solved.ac/hj_9118)<br/> -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwl9118)](https://solved.ac/hwl9118)<br/>
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ehoy)](https://velog.io/@ehoy) -->
 
